@@ -1,0 +1,7 @@
+/home/mahdi/Desktop/Saman/bin/Debug/net7.0/publish/Saman
+/home/mahdi/Desktop/Saman/bin/Debug/net7.0/publish/appsettings.Development.json
+/home/mahdi/Desktop/Saman/bin/Debug/net7.0/publish/appsettings.json
+/home/mahdi/Desktop/Saman/bin/Debug/net7.0/publish/Saman.dll
+/home/mahdi/Desktop/Saman/bin/Debug/net7.0/publish/Saman.deps.json
+/home/mahdi/Desktop/Saman/bin/Debug/net7.0/publish/Saman.runtimeconfig.json
+/home/mahdi/Desktop/Saman/bin/Debug/net7.0/publish/Saman.pdb
